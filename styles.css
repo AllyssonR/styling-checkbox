@@ -137,3 +137,6 @@ button + small {
   text-align: center;
   display: block;
 }
+small {
+  margin-top: 3rem;
+}
